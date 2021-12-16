@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there 👋 <p> ![](https://visitor-badge.laobi.icu/badge?page_id=Dhruv-bansal15.Dhruv-bansal15) </p>   
 <!--
 **Dhruv-bansal15/Dhruv-bansal15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1> Stats 📊 </h1>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruv-bansal15&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-bansal15&layout=compact&theme=tokyonight)
